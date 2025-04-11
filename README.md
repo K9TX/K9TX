@@ -65,6 +65,9 @@ I'm always curious about how financial systems work and how technology is shapin
 - 📧 Email: Kartik.tripathi9096@gmail.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/k9tx/
 - 🌐 Portfolio: in progress
+    
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ---
 
