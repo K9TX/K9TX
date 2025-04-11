@@ -48,7 +48,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** who loves buildi
 </p>
 
 ---
-## 📈 Areas of Interest
+## 📈 Area of Interest
 
 💰 Finance  
 📊 Stock Market & Trading  
