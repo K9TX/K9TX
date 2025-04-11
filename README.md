@@ -49,7 +49,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** who loves buildi
 
 - 📧 Email: Kartik.tripathi9096@gmail.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/k9tx/
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 🌐 Portfolio: in progress
 
 ---
 
