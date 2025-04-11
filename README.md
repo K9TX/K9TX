@@ -63,10 +63,4 @@ I'm always curious about how financial systems work and how technology is shapin
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
----
-
 Thanks for visiting! 🌟
