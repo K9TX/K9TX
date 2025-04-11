@@ -21,7 +21,6 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** who loves buildi
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring MVC" width="40" height="40"/>
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
@@ -44,7 +43,18 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** who loves buildi
 </p>
 
 ---
+## 📈 Areas of Interest
 
+💰 Finance  
+📊 Stock Market & Trading  
+📈 Derivatives & Technical Analysis  
+🏛️ Wall Street & Global Markets  
+🏦 Asset Management Companies (AMCs)  
+📉 Hedge Funds & Quant Strategies
+
+I'm always curious about how financial systems work and how technology is shaping modern trading platforms, investing tools, and financial analytics.
+
+---
 ## 📫 Let's Connect
 
 - 📧 Email: Kartik.tripathi9096@gmail.com 
