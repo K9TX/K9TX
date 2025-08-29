@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Kartik Tripathi!
 
-Welcome to my GitHub! I'm a passionate **Full Stack Developer** who loves building scalable, secure, and user-friendly applications. My expertise lies in combining the power of **Java & Spring Boot** on the backend with the flexibility and responsiveness of **React & Next.js** on the frontend.
+Welcome to my GitHub! I'm a passionate **Full Stack Developer** who loves building scalable, secure, and user-friendly applications. My expertise lies in combining the power of **python - Django** on the backend with the flexibility and responsiveness of **React & Next.js** on the frontend.
 
 ---
 
