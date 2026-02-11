@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** who loves buildi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/>
-  <img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" alt="Django" width="40" height="40"/>
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" alt="Django" width="60" height="60"/>
 </p>
 
 ### 🌐 Frontend
