@@ -41,7 +41,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** who loves buildi
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFCzp5MRv8ForMil3x2k_AcX0kD2KMaGKOkg&s" width="40" height="40"/>
 </p>
 ### 📊 Data Science / Analytics
 
